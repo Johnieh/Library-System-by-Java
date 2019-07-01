@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/LHome.jsp=UTF-8
+encoding//WebContent/book.jsp=UTF-8
+encoding//WebContent/findbook.jsp=UTF-8
+encoding//WebContent/findpassword.jsp=UTF-8
+encoding//WebContent/lfindpassword.jsp=UTF-8
+encoding//WebContent/loginCheck.jsp=UTF-8
+encoding//WebContent/reader.jsp=UTF-8
+encoding//WebContent/sendemail.jsp=UTF-8
+encoding//WebContent/uChangeInfor.jsp=UTF-8
+encoding//WebContent/uChangePwd.jsp=UTF-8
+encoding//WebContent/uChangePwdOk.jsp=UTF-8
+encoding//WebContent/uDeleteHistory.jsp=UTF-8
+encoding//WebContent/uFindBook.jsp=UTF-8
